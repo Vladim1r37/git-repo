@@ -1,4 +1,4 @@
 // пустая строка 
-empty line
+empty line;
 //новый тестовый комментарий
-empty line 2
+empty line 2;
