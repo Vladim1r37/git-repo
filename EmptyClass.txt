@@ -2,4 +2,5 @@
 empty line;
 //новый тестовый комментарий
 empty line 2;
+NewClass a = new NewClass();
 empty line 3;
